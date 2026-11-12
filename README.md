@@ -73,4 +73,4 @@ I used an AI assistant (Claude) to help build and learn this project, including 
 
 ## Author
 
-*Your name, year and branch, college*
+*Aastha Dubey, IT, GTBIT*
